@@ -1,4 +1,4 @@
-import Vue from 'vue';
+import Vue from 'vue2';
 import Cropper from './Cropper.vue';
 
 import { RectangleStencil, CircleStencil } from './components/stencils';
